@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/countdown/static/js/main.f9ad87b9.js",
+    "static/media/pattern-hills.png": "/countdown/static/media/pattern-hills.a8098c073fc95191daea.png",
+    "index.html": "/countdown/index.html",
+    "main.f9ad87b9.js.map": "/countdown/static/js/main.f9ad87b9.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.f9ad87b9.js"
+  ]
+}
